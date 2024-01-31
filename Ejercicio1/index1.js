@@ -1,4 +1,4 @@
-console.log('viernes 26 enero')
+console.log('viernes 26 enero');
 // base 16*23 cm, altura 13 cm
 
 const volumen = 16 * 23 * 13
@@ -20,4 +20,6 @@ console.log('volumen2', volumen2);
 
 const area2 = base * altura + 2 +base + ancho;
 console.log ('area2',area2 + 'cm2');
+
+console.log('finalizado-VIVA!');
 
