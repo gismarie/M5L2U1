@@ -1,0 +1,12 @@
+function celsiusToFahrenheit(gradosCelsius) {
+
+  const gradosFahrenheit = (gradosCelsius * 9/5) + 32;
+
+  return gradosFahrenheit;
+}
+
+// escribir los grados 
+const gradosCelsius = 20;
+const resultado = celsiusToFahrenheit(gradosCelsius);
+
+console.log(resultado); 
