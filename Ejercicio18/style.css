@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(238, 200, 153);
+}
+
+& button{
+        .yellow-background {
+            background-color: yellow;
+        }
+        .vowel {
+            color: rgb(8, 8, 197);
+        }
+        .consonant {
+            color: red;
+        }
+    }
